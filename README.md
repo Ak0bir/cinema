@@ -1,2 +1,2 @@
-# Vue Cinema 
-Bu vebsayt orqali so'nggi kino va seriallarni ko'rishingiz mumkin.
+# Vue Cinema Online Watch 
+bu vebsayt orqali siz songi kino va seriallarni korishingiz mumkin
